@@ -3,7 +3,7 @@ A system to provid multiple functionalities to different users such as renting a
 
 The following code named “main.cpp”, is an application of problem statement given in the C++ programming assignment using concepts in OOPS. 
 
-It uses file handling in C++ for database, with five separate databases in 5 different “.csv” files, submitted in the “.zip” folder. “all_customers_data.csv”, “all_employees_data.csv”, “all_managers_data.csv”, “all_cars_data.csv” & “issued_cars_data.csv”.
+It uses file handling in C++ for database, with five separate databases in 5 different “.csv” files. “all_customers_data.csv”, “all_employees_data.csv”, “all_managers_data.csv”, “all_cars_data.csv” & “issued_cars_data.csv”.
 
 Two classes are defined “user” & “car”, with three sub-classes of class “user” as “Customer”, “Employee” & “Manager”.
 Basic functionalities are the same as that defined in the problem statement.
